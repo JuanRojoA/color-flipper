@@ -140,14 +140,14 @@ footer {
     text-align: center;
   }
   main p {
-     font-size: 2.8rem;
-     padding: 0 2rem;
-     height: 8rem;
-   }
+    font-size: 2.8rem;
+    padding: 0 2rem;
+    height: 8rem;
+  }
 }
 
 @media screen and (max-width: 350px) {
-     main p {
-        font-size: 2.5rem;
-      }
-   }
+  main p {
+    font-size: 2.5rem;
+  }
+}
